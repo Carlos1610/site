@@ -1,10 +1,19 @@
 #banner{
-    background-image: url('../../img/basquetealpha.jpg');
+    background-image: url('../../img/basquete.jpg');
+    
  
     background-size: cover;
 }
 
 .jumbotron {
     padding-bottom: 10em;
+}
+
+.footer{
+    background: black;
+}
+
+.color{
+    color: white;
 }
 
